@@ -6,7 +6,9 @@ E.g.
 
 > A template that can be used for creating repos for Python projects  
 >  
-> This README sets out a structure that should be used in READMEs. Optional sections in this README template are marked **[optional]** - sometimes with notes on when these may apply. Note that this is a minimal template - other sections should be added where they are of use. Examples are marked using blockquotes (`>`) - remove these when replicating the examples
+> This README sets out a structure that should be used in READMEs. Optional sections in this README template are marked **[optional]** - sometimes with notes on when these may apply. Note that this is a minimal template - other sections should be added where they are of use. Examples are marked using blockquotes (`>`) - remove these when replicating the examples.
+>
+> Also note that this repo includes a `.vscode/settings.json.example` file, which contains useful Visual Studio Code settings for working with Python files. This file needs to be renamed to `.vscode/settings.json` to take effect. NB: `.vscode/settings.json` is excluded from version control.
 
 ## Related repositories
 
