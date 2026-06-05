@@ -45,6 +45,27 @@ E.g.
 
 ## Installation [optional - where applicable]
 
+Where the repo contains a `pyproject.toml` file, include the commands to install the repo as a Python package.
+
+E.g.
+
+> ### Installing from GitHub
+> ```bash
+> pip install git+https://github.com/instituteforgov/cs_organisations.git@<commit>
+> ```
+>
+> ### Installing as a local package
+> ```bash
+> pip install -e "<path_to_your_local_copy>/cs_organisations"
+> ```
+>
+> NB: Even when installed in this way, in `requirements.txt` this will show a GitHub URL rather than a local path.
+>
+> ### Installing from PyPI
+> Not yet implemented.
+
+## Dependencies [optional - where applicable]
+
 Where the repo contains a `requirements.txt` file, include the commands to install dependencies using it.
 
 E.g.
