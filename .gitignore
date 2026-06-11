@@ -196,8 +196,8 @@ cython_debug/
 .cursorindexingignore
 
 # Custom ignores
-*/archive/*
-*/temp/*
+archive/
+temp/
 
 todo.txt
 temp.*
